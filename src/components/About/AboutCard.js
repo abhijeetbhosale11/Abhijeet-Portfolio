@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Abhijeet Bhosale </span>
             from <span className="purple"> Mumbai, India.</span>
             <br />
-            I am currently Intern as a Full Stack developer at Bharat Intern.
+            I am currently Intern as a Full Stack developer at Bookeventz.com.
             <br />
-            I develop java Applications, Web applications and Database Management.
+            I develop java Applications, PHP Laravel Applications, Web Applications and Database Management.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
