@@ -21,9 +21,9 @@ function Home2() {
             <p className="home-about-body">
             I develop java Applications, Web applications and Database Management. 
               <br />
-              <br />I'm a skilled software developer with experience in Java, Springboot, C#, JavaScript And SQL and Work in frameworks like React, BootStrap, Spring, ASP.NET Core, Node.js, and Three.js.
+              <br />I'm a skilled software developer with experience in PHP, Java, Springboot, C#, JavaScript And SQL and Work in frameworks like React, BootStrap, Spring, ASP.NET Core, Node.js, and Three.js.
               <i>
-                <b className="purple"> C#, ASP.NET and REACT. </b>
+                <b className="purple"> PHP, C#, ASP.NET and REACT JS. </b>
               </i>
               <br />
               <br />
@@ -32,13 +32,13 @@ function Home2() {
                 <b className="purple">Web Devlopment and Project </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  REACT.
+                  REACT JS.
                 </b>
               </i>
               <br />
               <br />
               Let's work together to bring your ideas to life!
-              with <b className="purple">Java, Asp.Net</b> and
+              with <b className="purple">PHP, Java, Asp.Net</b> and
               <i>
                 <b className="purple">
                   {" "}
